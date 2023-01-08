@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}div{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    background-color: rgb(35, 34, 34);
+    color:rgb(144, 30, 30);
+    text-align: center;
+    height: 70px;
+    width: 100%;
+    padding-top: 15px;
+}
+.content{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 1.3rem;
+}
+button{
+    outline: none;
+    color:aliceblue;
+    background-color: blueviolet;
+    padding: 10px;
+    border: none;
+    width: 15%;
+    margin: 20px;
+    border-radius: 7px;
+}

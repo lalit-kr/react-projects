@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}div{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+h1{
+    background-color: rgb(35, 34, 34);
+    color:rgb(144, 30, 30);
+    text-align: center;
+    height: 70px;
+    width: 100%;
+    padding-top: 15px;
+}
+.content{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 2rem;
+}
+h2{
+    border:2px solid greenyellow;
+    background-color: black;
+    color:greenyellow;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 400px;
+    padding: 10px 0;
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 710px;
+    padding: 20px 30px;
+    border:none;
+    background-color: black;
+    border:2px solid greenyellow;
+    cursor: pointer;
+    color:greenyellow;
+    font-size: 20px;
+    border-radius: 7px;
+}
